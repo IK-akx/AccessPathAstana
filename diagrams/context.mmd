@@ -1,0 +1,7 @@
+flowchart TB
+ U[Mobile user] -->|Routes and reports| S[AccessPath system]
+ M[Moderator and data maintainer] -->|Review and import| S
+ O[OSM source data] -->|Geodata| S
+ T[Tile provider] -->|Map tiles| S
+ D[Device GPS and camera] -->|Location and photo| S
+ S -->|Route and uncertainty| U

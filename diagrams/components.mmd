@@ -1,0 +1,13 @@
+flowchart TB
+ C[Flutter mobile client] --> API[REST API]
+ M[Moderator interface] --> API
+ subgraph Backend
+ API --> R[Routing package]
+ API --> B[Report service]
+ L[Import and graph loader] --> R
+ end
+ O[OSM snapshot] --> L
+ L --> DB[PostgreSQL and PostGIS]
+ R --> DB
+ B --> DB
+ B --> P[Private photo volume]
