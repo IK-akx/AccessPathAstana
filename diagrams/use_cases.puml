@@ -1,0 +1,24 @@
+@startuml
+left to right direction
+actor "Guest user" as U
+actor Contributor as C
+actor Moderator as M
+actor "Data maintainer" as D
+U <|-- C
+rectangle "AccessPath Astana" {
+ usecase "Select profile" as P
+ usecase "Plan route" as R
+ usecase "Inspect route and barriers" as I
+ usecase "Follow guidance" as G
+ usecase "Submit barrier report" as B
+ usecase "Moderate reports" as V
+ usecase "Import and audit data" as A
+}
+U -- P
+U -- R
+U -- I
+U -- G
+C -- B
+M -- V
+D -- A
+@enduml
