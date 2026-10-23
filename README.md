@@ -35,7 +35,9 @@ Flutter and flutter_map; Python/FastAPI with an internal routing package; Postgr
 
 ## Project links
 GitHub/GitLab URL: not created yet.
-YouTrack URL: created by the team; insert actual URL.
+
+YouTrack URL: https://accesspath-astana.youtrack.cloud/projects/AP
+
 Supervisor review record: management/supervisor_review.md.
 
 ## Viewing and running
