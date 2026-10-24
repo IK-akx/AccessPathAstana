@@ -21,7 +21,7 @@ Analysis and design package prepared on 20 October 2026 and revised on 23 Octobe
 Flutter and flutter_map; Python/FastAPI with an internal routing package; PostgreSQL/PostGIS; REST/OpenAPI; Docker Compose. See docs/05_technology_comparison.md for alternatives.
 
 ## Documentation
-- [Complete report](report.md)
+- [Complete report](Diploma_report.md)
 - [Proposal](docs/01_project_proposal.md)
 - [Requirements](docs/06_requirements_specification.md)
 - [Architecture](docs/07_architecture_and_diagrams.md)
