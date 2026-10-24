@@ -34,8 +34,10 @@ Flutter and flutter_map; Python/FastAPI with an internal routing package; Postgr
 - Tasks: management/youtrack_tasks.csv. Proposed IDs must be mapped to actual YouTrack IDs.
 
 ## Project links
-GitHub/GitLab URL: not created yet.
-YouTrack URL: created by the team; insert actual URL.
+GitHub/GitLab URL: https://github.com/IK-akx/AccessPathAstana
+
+YouTrack URL: https://accesspath-astana.youtrack.cloud/projects/AP
+
 Supervisor review record: management/supervisor_review.md.
 
 ## Viewing and running
