@@ -1,13 +1,47 @@
-## 11 Supervisor feedback
+# Supervisor feedback
 
-According to the team, Islam Omirzak approved the overall topic and a small change was made to its wording. The exact earlier and approved wording, date and written confirmation were not provided. This records the team's account of topic approval; it does not imply that the supervisor has reviewed this package.
+Supervisor: Islam Omirzak
+Review date: 24.10.2026
 
-| Item | Current record | Required next evidence |
-| --- | --- | --- |
-| Topic approval | Reported by the team | Confirm approved title and approval date |
-| Wording revision | Minor revision reported; exact text unavailable | Record previous and approved wording |
-| Scope and pilot | Prepared for review | Comments on polygon, feature boundaries and feasibility |
-| Requirements and evaluation | Prepared for review | Comments on acceptance targets, baseline and evidence |
-| Architecture and prototype | Prepared for review | Comments and links to revisions |
+## Feedback
 
-At the review, record the material version, comment, decision, owner and resulting PR or document change. If a suggestion is not adopted, explain why. Do not fabricate comments or mark a review complete merely because the general topic was approved.
+The AccessPathAstana project addresses an important social and
+technological problem: helping people with reduced mobility identify
+accessible locations and construct safer, barrier-aware routes
+through Astana. The project demonstrates practical relevance and
+the potential to support more independent urban navigation.
+
+The key deliverables should include a requirements specification,
+accessibility-data model, interactive map, accessible-location
+catalogue, route-planning component, user reporting and verification
+functions, administrative moderation tools, system architecture,
+database design, testing documentation, and a functional prototype.
+The project scope is appropriate for a diploma project, provided
+that the team prioritizes the reliability of accessibility data
+and routing recommendations.
+
+## Team response and planned actions
+
+The supervisor supports the relevance and overall scope of the
+project, with particular emphasis on the reliability of accessibility
+data and routing recommendations.
+
+The team will retain source information, observation and verification
+dates, explicit unknown values, and moderator review of user reports.
+Routing verification will include hard-constraint checks, unknown-data
+handling and independently audited pilot routes.
+
+The requested accessible-location catalogue requires scope
+clarification. The team will discuss whether a limited set of
+destination records within the pilot is sufficient and document
+the resulting requirements and data-model changes.
+
+The interactive map and functional prototype remain implementation
+deliverables. Their completion is not claimed at this stage.
+
+## Follow-up
+
+- Record the review date and reviewed material version.
+- Clarify the minimum scope of the accessible-location catalogue.
+- Link this feedback to the relevant YouTrack tasks.
+- Record resulting documentation changes and their pull requests.
