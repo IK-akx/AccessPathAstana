@@ -2,9 +2,9 @@
 
 The supplied mockups are design prototypes with illustrative values and a schematic map, not measured routes. They cover profile selection, route planning, route review, guidance, barrier details, reporting, no-route feedback and moderation. SVG sources can be imported into a design tool and edited.
 
-![Prototype screens one to four](../prototype/screens_1_4.png)
+![Prototype screens one to four](../prototype)
 
-![Prototype screens five to eight](../prototype/screens_5_8.png)
+![Prototype screens five to eight](../prototype)
 
 Scenario U1: choose a wheelchair preset, review constraints, select two pilot points, build a strict route, inspect distance and uncertainty, then start guidance. If strict routing fails, explain missing or blocked information; offer changing endpoints or explicitly selecting exploratory mode without implying that it is verified.
 
