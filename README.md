@@ -30,7 +30,7 @@ Flutter and flutter_map; Python/FastAPI with an internal routing package; Postgr
 - [Requirement traceability](management/traceability.md)
 - [User interviews and decisions](management/user_interviews.md)
 - Diagrams: editable SVG and Mermaid/PlantUML with PNG exports in diagrams/.
-- Prototype: editable SVG and PNG sheets in prototype/.
+- Prototype: editable PDF and PNG sheets in prototype/.
 - Tasks: management/youtrack_tasks.csv. Proposed IDs must be mapped to actual YouTrack IDs.
 
 ## Project links
